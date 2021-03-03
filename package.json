@@ -99,7 +99,7 @@
     "node-slack": "0.0.7",
     "p-limit": "2.2.2",
     "pagexray": "2.5.10",
-    "pug": "3.0.0",
+    "pug": "3.0.1",
     "recursive-readdir": "2.2.2",
     "simplecrawler": "1.1.9",
     "tape": "4.13.0",
